@@ -1,0 +1,12 @@
+D:\Codding\Демо\Demo_2\Demo_2\bin\Debug\Demo_2.exe.config
+D:\Codding\Демо\Demo_2\Demo_2\bin\Debug\Demo_2.exe
+D:\Codding\Демо\Demo_2\Demo_2\bin\Debug\Demo_2.pdb
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.csproj.AssemblyReference.cache
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.ProductForm.resources
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.Properties.Resources.resources
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.csproj.GenerateResource.cache
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.csproj.CoreCompileInputs.cache
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.exe
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.pdb
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.Forms.AddUpdateForm.resources
+D:\Codding\Демо\Demo_2\Demo_2\obj\Debug\Demo_2.UI.uc_Product.resources
